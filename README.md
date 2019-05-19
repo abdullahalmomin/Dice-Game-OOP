@@ -1,6 +1,6 @@
 # Dice-Game-OOP
 
-Run the html file
-open the console 
-click on the "roll here" text
+Run the html file <br /> 
+open the console  <br /> 
+click on the "roll here" text <br /> 
 you will see the output
